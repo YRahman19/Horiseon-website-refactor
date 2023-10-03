@@ -4,8 +4,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 I was given a task by Horiseon to fix there codebase to follow accessibility standards and to improve the site search engine. I was able to refactor the code given to me and update it by using semantics HTML and also improve the CSS by condensing it down while still keeping the website how it is. i have learnt ways to improve my own understanding of HTML and CSS. 
 
 ## Installation
